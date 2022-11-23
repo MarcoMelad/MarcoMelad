@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Keroles Atef</h2>
-<img align='right' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
-<h4 align="left"><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></h4>
+<img align='right' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="280">
+<h3 align="left"><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></h3>
 
 [![Linkedin: keroles-atef](https://img.shields.io/badge/-kerolees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keroles-atef/)](https://www.linkedin.com/in/keroles-atef/)
 
