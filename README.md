@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keroles</h1>
 <h3 align="center">🚀 A Passionate Software Engineer From Egypt 🚀</h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
 
 - 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a full stack developer.
@@ -61,12 +60,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles19&langs_count=10&theme=tokyonight&layout=compact" alt="Keroles Atef :: Top Langs" /></p>
 
-## 🏆 GitHub Profile Trophies
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=keroles19&theme=algolia" alt="Keroles Atef" />
-</a> 
-</p>
+[//]: # (## 🏆 GitHub Profile Trophies)
+
+[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keroles19" alt="keroles19" /></a> </p>)
 
 [//]: # (<a href="https://app.daily.dev/keroles19"><img src="https://api.daily.dev/devcards/6916103a3fec42ac884c3d21280ac528.png?r=n61" width="400" alt="KerolesAtef's Dev Card"/></a>)
+[//]: # ( <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>)
 
