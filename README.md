@@ -1,7 +1,21 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Keroles Atef</h2>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100/>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Keroles Atef</h2>
+<img align='right' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
 <h4 align="left"><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h4>
+
+[![Linkedin: keroles-atef](https://img.shields.io/badge/-kerolees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keroles-atef/)](https://www.linkedin.com/in/keroles-atef/)
+
+
+### 📫 Contact
+
+<p>
+<a href="mailto:kerolesatef200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
+<a href="https://api.whatsapp.com/send?phone=+201060402713&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201060402713&text=Hi!)](" alt="Whatsapp"></a>
+<a href="https://wuzzuf.net/me/keroles-Atef-d813994bd9" target="_blank"><img src="https://img.shields.io/badge/-Wuzzuf-1da1f2?style=flat-square&labelColor=1da1f2&logo=wuzzuf&logoColor=white&link=https://wuzzuf.net/me/keroles-Atef-d813994bd9" alt="Twitter"></a>  
+</p>
+
+
+### 👇 A little more about me...
 
 - 🔥 &nbsp; Exploring new technologies and developing software solutions.
 
@@ -45,27 +59,19 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/keroles19/)](https://github.com/keroles19/)
 
 
-<h3> 💬 Connect with via ... </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/keroles-atef" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kerolesatef200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
-<a href="https://www.facebook.com/kerolesatef200" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://wuzzuf.net/me/keroles-Atef-d813994bd9" target="_blank"><img src="https://img.shields.io/badge/-Wuzzuf-1da1f2?style=flat-square&labelColor=1da1f2&logo=wuzzuf&logoColor=white&link=https://wuzzuf.net/me/keroles-Atef-d813994bd9" alt="Twitter"></a>  
-<a href="https://api.whatsapp.com/send?phone=+201060402713&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201060402713&text=Hi!)](" alt="Whatsapp"></a>  
-<!-- [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
- -->
- </p>
+[//]: # (<h2 align="center">:bar_chart: Github stats </h2>)
 
-<h2 align="center">:bar_chart: Github stats </h2>
+[//]: # ()
+[//]: # (<h3 align="center">🛠 My profile Statistics </h3>)
 
-<h3 align="center">🛠 My profile Statistics </h3>
+[//]: # ()
+[//]: # (<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=keroles19&show_icons=true&theme=tokyonight" alt="![Keroles Atef's github]"></p>)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=keroles19&show_icons=true&theme=tokyonight" alt="![Keroles Atef's github]"></p>
+[//]: # ()
+[//]: # (<h3 align="center">Top langs</h3>)
 
-<h3 align="center">Top langs</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles19&langs_count=10&theme=tokyonight&layout=compact" alt="Keroles Atef :: Top Langs" /></p>
+[//]: # ()
+[//]: # (<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles19&langs_count=10&theme=tokyonight&layout=compact" alt="Keroles Atef :: Top Langs" /></p>)
 
 [//]: # (## 🏆 GitHub Profile Trophies)
 
