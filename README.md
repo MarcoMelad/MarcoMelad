@@ -1,16 +1,15 @@
-<h1 align="center"> Hey there! I'm Keroles. 👋</h1>
-<h2 align="center">🚀 Software Engineer 🚀</h2>
+<h1 align="center">Hi 👋, I'm Keroles</h1>
+<h3 align="center">🚀 A Passionate Software Engineer From Egypt 🚀</h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+ <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-- 🔥  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a full stack developer.
-- 🎓 &nbsp; Studying Computer Science at Minya University.
-- 🌱 &nbsp;I'm on track for learning more about Web Development
-- 👯 &nbsp;I’m looking to collaborate on full stack (laravel/vue) projects
-- 💬 &nbsp;Ask me about Web dev related Stuff
-- 💻 &nbsp;Goals: Learn more technological stacks and improve my overall skills
-<!-- - 👯 I’m looking to collaborate on ... Any of project -->
-
+- 🎓 &nbsp; I have a bachelor degree in computer science.
+- 🌱 &nbsp; I'm on track for learning more about Web Development.
+- 👯 &nbsp; I’m looking to collaborate on full stack ( laravel / vue ) projects.
+- 💬 &nbsp; Ask me about Web dev related stuff.
+- 💻 &nbsp; Goals: Learn more technological stacks and improve my overall skills.
 
 ### - Languages and Technologies...
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/keroles19/)
@@ -60,9 +59,14 @@
 
 <h3 align="center">Top langs</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles19&langs_count=10&theme=tokyonight&layout=compact" alt="Poula Helmy :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles19&langs_count=10&theme=tokyonight&layout=compact" alt="Keroles Atef :: Top Langs" /></p>
 
-[//]: # (<a href="https://app.daily.dev/PoulaHelmy"><img src="https://api.daily.dev/devcards/6916103a3fec42ac884c3d21280ac528.png?r=n61" width="400" alt="KerolesAtef's Dev Card"/></a>)
+## 🏆 GitHub Profile Trophies
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=keroles19&theme=algolia" alt="Keroles Atef" />
+</a> 
+</p>
 
-## Show ❤️ By Starring My Repos!
+[//]: # (<a href="https://app.daily.dev/keroles19"><img src="https://api.daily.dev/devcards/6916103a3fec42ac884c3d21280ac528.png?r=n61" width="400" alt="KerolesAtef's Dev Card"/></a>)
 
