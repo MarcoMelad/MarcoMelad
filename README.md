@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Keroles</h1>
-<h3 align="center">🚀 A Passionate Software Engineer  🚀</h3>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Keroles Atef</h2>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100/>
+<h4 align="left"><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></h4>
 
-- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔥 &nbsp; Exploring new technologies and developing software solutions.
+
 - 💼 &nbsp; Working as a full stack developer.
+
 - 🎓 &nbsp; I have a bachelor degree in computer science.
+
 - 🌱 &nbsp; I'm on track for learning more about Web Development.
+
 - 👯 &nbsp; I’m looking to collaborate on full stack ( laravel / vue ) projects.
+
 - 💬 &nbsp; Ask me about Web dev related stuff.
-- 💻 &nbsp; Goals: Learn more technological stacks and improve my overall skills.
+
+- 💻 &nbsp; Goals Learn more technological stacks and improve my overall skills.
 
 ### - Languages and Technologies...
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/keroles19/)
