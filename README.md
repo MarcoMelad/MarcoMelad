@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keroles</h1>
 <h3 align="center">🚀 A Passionate Software Engineer From Egypt 🚀</h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+ <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 20%/>
 
 - 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a full stack developer.
